@@ -2,9 +2,9 @@
 Plan of action: 
 - [x] Download gatsby starter: https://account.godaddy.com/products
 - [x] Run Gatsby starter
-- [ ] Remove everything but the first page
-  - [ ] Run it on Webstorm
-  - [ ] Get familiar and remove what's not necessary
+- [x] Remove everything but the first page
+  - [x] Run it on Webstorm
+  - [x] Get familiar and remove what's not necessary
 - [ ] Use Netlify to Host
 
 
