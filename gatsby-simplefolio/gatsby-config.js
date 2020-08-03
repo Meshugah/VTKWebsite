@@ -26,7 +26,7 @@ module.exports = {
         short_name: `Simplefolio`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#02aab0`,
+        theme_color: `#4A818F`,
         display: `standalone`,
         icon: 'src/images/VTK-FINAL-LOGO.png',
       },
