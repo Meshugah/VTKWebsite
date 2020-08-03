@@ -5,7 +5,7 @@ Plan of action:
 - [x] Remove everything but the first page
   - [x] Run it on Webstorm
   - [x] Get familiar and remove what's not necessary
-- [ ] Use Netlify to Host
+- [x] Use Netlify to Host
 
 
 ## What's not necessary
