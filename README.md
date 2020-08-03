@@ -1,9 +1,11 @@
 # VTKWebsite
 Plan of action: 
-- Download gatsby starter: https://account.godaddy.com/products
-- Run Gatsby starter
-- Remove everything but the first page
-- Use Netlify to Host
+- [x] Download gatsby starter: https://account.godaddy.com/products
+- [x] Run Gatsby starter
+- [ ] Remove everything but the first page
+  - [ ] Run it on Webstorm
+  - [ ] Get familiar and remove what's not necessary
+- [ ] Use Netlify to Host
 
 
 ## What's not necessary
