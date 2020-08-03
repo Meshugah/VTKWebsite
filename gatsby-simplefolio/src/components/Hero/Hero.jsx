@@ -6,6 +6,8 @@ import PortfolioContext from '../../context/context';
 const Header = () => {
   const { hero } = useContext(PortfolioContext);
   const { title, cta } = hero;
+  // eslint-disable-next-line global-require
+  const logo = require('../../images/VTK-FINAL-LOGO.png');
 
   const [isDesktop, setIsDesktop] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
@@ -36,6 +38,9 @@ const Header = () => {
               <a href="mailto: vtk@vtkindustries.com">{cta || 'Contact us'}</a>
             </span>
           </p>
+        </Fade>
+        <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
+          <img src={logo} alt="" width="100" height="60" />
         </Fade>
       </Container>
     </section>

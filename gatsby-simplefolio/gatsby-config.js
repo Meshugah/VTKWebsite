@@ -22,13 +22,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Simplefolio`,
+        name: `VTK Industries`,
         short_name: `Simplefolio`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#02aab0`,
         display: `standalone`,
-        icon: 'src/images/favicon.png',
+        icon: 'src/images/VTK-FINAL-LOGO.png',
       },
     },
   ],
