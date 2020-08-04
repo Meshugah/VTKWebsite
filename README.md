@@ -6,6 +6,7 @@ Plan of action:
   - [x] Run it on Webstorm
   - [x] Get familiar and remove what's not necessary
 - [x] Use Netlify to Host
+- [x] Configure MX records (point to Google in this case)
 
 
 ## What's not necessary
